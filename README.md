@@ -1,3 +1,4 @@
+![Banner Image](src/sculptrr.png)
 # sculptrr
 
 Sculptrr, a css-in-js library for Enjine-Io a.k.a DroidScript Hybrid >3
@@ -10,9 +11,11 @@ Firstly download the `sculptrr.core.js` file then load in into your project like
 ui.script("sculptrr.core.js");
 ```
 
-The next step is using it, the library extends `ui.Control` - this class is used to build elements in hibrid.
+The next step is using it.
 
-So we have added our own method, you camnn access it using :
+The library extends `ui.Control` - this class is used to build elements in hybrid.
+
+So we have added our own method, you can access it using :
 
 ```javascript
 ui.script("sculptrr.core.js");
