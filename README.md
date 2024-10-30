@@ -3,6 +3,8 @@
 
 Sculptrr, a css-in-js library for Enjine-Io a.k.a DroidScript Hybrid >3
 
+NOTE : This plugin is depracated, check the alternative : [Metro](https://github.com/oarabiledev/metro)
+
 ## Getting Started >3
 
 Firstly download the `sculptrr.core.js` file then load in into your project like :
